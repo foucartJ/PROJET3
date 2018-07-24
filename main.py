@@ -52,8 +52,8 @@ def extraction():
 	print('\nNouvelle Structure avec les 3 objets ajoutes aleatoirement:\n {}'.format(structure))
 
 
-structure[1][1] = macGyver  #position de MAC dans le labyrinthe
-structure[13][8] = guardian #position du gardien dans le labyrinthe
+#structure[1][1] = macGyver  #position de MAC dans le labyrinthe
+#structure[13][8] = guardian #position du gardien dans le labyrinthe
 
 
 print('\nStructure du labyrinthe: \n {}'.format(structure))
